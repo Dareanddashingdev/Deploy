@@ -1,0 +1,2 @@
+from .hog_features import extract_hog_features_from_image, extract_hog_features_from_path
+from .colour_histogram import extract_color_histogram_from_image, extract_color_histogram_from_path
