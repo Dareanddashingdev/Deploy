@@ -1,0 +1,11 @@
+streamlit==1.42.2
+streamlit-option-menu==0.4.0
+pandas
+numpy
+scikit-learn
+joblib
+gTTS
+opencv-python
+requests
+matplotlib
+seaborn
